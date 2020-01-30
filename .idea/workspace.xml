@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a150f585-b48a-4d4e-bc6f-b91947e18fef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WPGjxjHotrEnSzn46qMOEpc39K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MagicFormulaSearch.py" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MagicFormulaSearch" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="MagicFormulaInvestingMarketSearch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MagicFormulaSearch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a150f585-b48a-4d4e-bc6f-b91947e18fef" name="Default Changelist" comment="" />
+      <created>1579043954038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579043954038</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="844" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579044055924">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="844" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579044055924" />
+    <state x="1168" y="292" width="426" height="477" key="FileChooserDialogImpl" timestamp="1579044049176">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1168" y="292" width="426" height="477" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1579044049176" />
+    <state width="1899" height="458" key="GridCell.Tab.0.bottom" timestamp="1579474910688">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1899" height="458" key="GridCell.Tab.0.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1579474910688" />
+    <state width="498" height="368" key="GridCell.Tab.0.bottom/540.0.1920.1080/0.0.540.960/2460.57.540.960@0.0.540.960" timestamp="1579067582187" />
+    <state width="1899" height="458" key="GridCell.Tab.0.center" timestamp="1579474910688">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1899" height="458" key="GridCell.Tab.0.center/0.0.1920.1053@0.0.1920.1053" timestamp="1579474910688" />
+    <state width="498" height="368" key="GridCell.Tab.0.center/540.0.1920.1080/0.0.540.960/2460.57.540.960@0.0.540.960" timestamp="1579067582186" />
+    <state width="1899" height="458" key="GridCell.Tab.0.left" timestamp="1579474910688">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1899" height="458" key="GridCell.Tab.0.left/0.0.1920.1053@0.0.1920.1053" timestamp="1579474910688" />
+    <state width="498" height="368" key="GridCell.Tab.0.left/540.0.1920.1080/0.0.540.960/2460.57.540.960@0.0.540.960" timestamp="1579067582186" />
+    <state width="1899" height="458" key="GridCell.Tab.0.right" timestamp="1579474910688">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1899" height="458" key="GridCell.Tab.0.right/0.0.1920.1053@0.0.1920.1053" timestamp="1579474910688" />
+    <state width="498" height="368" key="GridCell.Tab.0.right/540.0.1920.1080/0.0.540.960/2460.57.540.960@0.0.540.960" timestamp="1579067582186" />
+    <state x="514" y="300" width="1164" height="723" key="SettingsEditor" timestamp="1579474276908">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="514" y="300" width="1164" height="723" key="SettingsEditor/0.0.1920.1053@0.0.1920.1053" timestamp="1579474276908" />
+    <state x="934" y="169" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1579044938440" />
+    <state x="1054" y="308" width="1164" height="724" key="SettingsEditor/540.0.1920.1080/0.0.540.960/2460.57.540.960@0.0.540.960" timestamp="1579053610908" />
+    <state x="960" y="0" key="SettingsEditor/540.0.1920.1080/0.0.540.960/2460.57.540.960@540.0.1920.1080" timestamp="1579053011859" />
+    <state x="585" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1580253935078">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="585" y="354" key="com.intellij.ide.util.TipDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1579474223926" />
+    <state x="585" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580253935078" />
+    <state x="1125" y="363" key="com.intellij.ide.util.TipDialog/540.0.1920.1080/0.0.540.960/2460.57.540.960@540.0.1920.1080" timestamp="1579052153057" />
+  </component>
+</project>
